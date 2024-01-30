@@ -37,3 +37,12 @@ p {
 #purple {
     color: hsl(277, 64%, 61%);
 }
+
+#details {
+    padding: 70px;
+    width: 52%;
+}
+
+img {
+    width: 48%;
+}
