@@ -3,6 +3,7 @@
 
 body {
     font-family: "Inter";
+    background-color: hsl(233, 47%, 7%);
 }
 
 html {
@@ -13,5 +14,13 @@ html {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    border: 1px solid yellowgreen;
+    /* border: 1px solid yellowgreen; */
+}
+
+main {
+    border: 1px solid black;
+    display: flex;
+    width: 1000px;
+    border-radius: 8px;
+    background-color: hsl(244, 38%, 16%);
 }
