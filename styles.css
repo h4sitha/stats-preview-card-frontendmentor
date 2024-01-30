@@ -46,7 +46,7 @@ p {
 }
 
 #details {
-    padding: 70px;
+    padding: 65px;
     width: 52%;
     display: flex;
     flex-direction: column;
@@ -80,7 +80,7 @@ img,
 
 h1 {
     font-size: 2.35rem;
-    margin-bottom: 25px;
+    margin-bottom: -10px;
 }
 
 p {
@@ -99,4 +99,8 @@ p {
 .number {
     font-size: 1.75rem;
     font-weight: 700;
+}
+
+#stats div:last-of-type {
+    margin-right: 40px;
 }
