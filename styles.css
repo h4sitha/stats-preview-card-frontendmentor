@@ -97,8 +97,9 @@ p {
 }
 
 .number {
-    font-size: 1.75rem;
+    font-size: 1.6rem;
     font-weight: 700;
+    margin-bottom: 5px;
 }
 
 #stats div:last-of-type {
