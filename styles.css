@@ -64,6 +64,11 @@ img {
     object-fit: cover;
 }
 
+img,
+#purple-overlay {
+    border-radius: 0 8px 8px 0;
+}
+
 #purple-overlay {
     background-color: hsl(277, 100%, 40%);
     height: 100%;
