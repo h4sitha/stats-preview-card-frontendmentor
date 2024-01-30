@@ -15,7 +15,7 @@ html {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    border: 1px solid yellowgreen;
+    /* border: 1px solid yellowgreen; */
 }
 
 main {
@@ -57,4 +57,13 @@ h1 {
 
 p {
     line-height: 25px;
+}
+
+#stats {
+    display: flex;
+    justify-content: space-between;
+}
+
+#stats span {
+    display: block;
 }
