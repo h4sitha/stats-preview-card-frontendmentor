@@ -113,6 +113,10 @@ p {
         font-size: 3.4vw;
     }
 
+    #details {
+        padding: 5.2vw;
+    }
+
 }
 
 @media (max-width: 952px) {
