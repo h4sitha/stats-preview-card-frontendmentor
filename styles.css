@@ -106,3 +106,19 @@ p {
 #stats div:last-of-type {
     margin-right: 40px;
 }
+
+@media (max-width: 1012px) {
+
+    h1 {
+        font-size: 3.4vw;
+    }
+
+}
+
+@media (max-width: 952px) {
+
+    h1 {
+        font-size: 3.3vw;
+    }
+
+}
