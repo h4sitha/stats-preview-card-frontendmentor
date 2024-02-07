@@ -176,3 +176,17 @@ p {
     }
 
 }
+
+@media (max-width: 426px) {
+
+    #stats {
+        margin-top: 20px;
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    #stats div:last-of-type {
+        margin-right: 0;
+    }
+
+}
