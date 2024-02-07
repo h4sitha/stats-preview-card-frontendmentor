@@ -140,6 +140,7 @@ p {
 
     main {
         flex-direction: column-reverse;
+        width: 90%;
     }
 
     #main-image {
