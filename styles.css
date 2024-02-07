@@ -175,6 +175,15 @@ p {
         border-radius: 8px 8px 0 0;
     }
 
+    #stats {
+        justify-content: center;
+        gap: 50px;
+    }
+
+    #stats div:last-of-type {
+        margin-right: 0;
+    }
+
 }
 
 @media (max-width: 426px) {
