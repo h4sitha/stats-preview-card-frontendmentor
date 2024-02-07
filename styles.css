@@ -169,4 +169,9 @@ p {
         padding: 30px;
     }
 
+    img,
+    #purple-overlay {
+        border-radius: 8px 8px 0 0;
+    }
+
 }
